@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Belajar-reactjs.git/static/css/main.3cbfaaf4.chunk.css",
+    "main.js": "/Belajar-reactjs.git/static/js/main.66a00e18.chunk.js",
+    "main.js.map": "/Belajar-reactjs.git/static/js/main.66a00e18.chunk.js.map",
+    "runtime-main.js": "/Belajar-reactjs.git/static/js/runtime-main.95d0daf2.js",
+    "runtime-main.js.map": "/Belajar-reactjs.git/static/js/runtime-main.95d0daf2.js.map",
+    "static/js/2.5a2a9427.chunk.js": "/Belajar-reactjs.git/static/js/2.5a2a9427.chunk.js",
+    "static/js/2.5a2a9427.chunk.js.map": "/Belajar-reactjs.git/static/js/2.5a2a9427.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/Belajar-reactjs.git/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/Belajar-reactjs.git/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/Belajar-reactjs.git/index.html",
+    "static/css/main.3cbfaaf4.chunk.css.map": "/Belajar-reactjs.git/static/css/main.3cbfaaf4.chunk.css.map",
+    "static/js/2.5a2a9427.chunk.js.LICENSE.txt": "/Belajar-reactjs.git/static/js/2.5a2a9427.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Belajar-reactjs.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d0daf2.js",
+    "static/js/2.5a2a9427.chunk.js",
+    "static/css/main.3cbfaaf4.chunk.css",
+    "static/js/main.66a00e18.chunk.js"
+  ]
+}
